@@ -7,4 +7,4 @@ res.send('welcome to world rest api')
 
 })
 
-app.listen(9090,()=>console.log('server started'))
+app.listen(9090,()=>console.log('server started on port 9090'))
